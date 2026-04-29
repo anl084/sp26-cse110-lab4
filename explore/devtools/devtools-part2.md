@@ -1,0 +1,2 @@
+1. The bug was that num1 and num2 are strings so the result can only evevr be a string.
+2. I would fix it by converting it into a number before adding with the function Number(), with the parameter being the number
